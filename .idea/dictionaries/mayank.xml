@@ -2,6 +2,8 @@
   <dictionary name="mayank">
     <words>
       <w>convolutional</w>
+      <w>lstm</w>
+      <w>spatiotemporal</w>
     </words>
   </dictionary>
 </component>
