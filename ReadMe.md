@@ -25,9 +25,9 @@
     We are still experimenting with the format of how to make the summary so that it is very structured and yet generic.
     Some of the features that remain to be added - 
     
-    - [ ] General Structure for the summary which is applicable to all deep learning papers
-    - [ ] Linking already existing in-summary lines in different papers
-
+  - [ ] General Structure for the summary which is applicable to all deep learning papers
+  - [ ] Linking already existing in-summary lines in different papers    
+  
 ## Conclusion
 
     We hope to provide a platform where everyone, from a researcher, who has been in the field for 60 years, to an engineer, who has just started, have clear understanding of the topics they are interested in.
