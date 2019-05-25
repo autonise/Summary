@@ -1,4 +1,4 @@
-# Lip Reading In the wild
+# Lip Reading In the wild (https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf)
 
 ## Terms used 
 
