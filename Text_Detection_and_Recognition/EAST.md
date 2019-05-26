@@ -14,7 +14,7 @@
 
 ## Loss Function
 	The loss function=(sum of the losses in score map) + lambda*(sum of the losses in geometry)
-	lambda is used to show which loss is more important.For testing lambda is set to 1 and The loss function used is The Dice Loss Coefficient
+	lambda is used to show which loss is more important.For testing lambda is set to 1 and The loss function used is The Dice Loss Coefficient.For the losses in geometry in a rectangle we use IOU loss for height width and cordinates of the center for the rotation angle we use cosine loss function
 
 ## Training Details
 	1. Optimiser:-Adam
